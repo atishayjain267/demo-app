@@ -13,4 +13,4 @@ def get_ip_info():
 
 
 if __name__ == "__main__":
-    get_ip_info()
+    get_ip_info(): print("Environment verified and connected to GitHub!")
